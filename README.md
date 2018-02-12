@@ -12,7 +12,8 @@ This paper presents a novel method for visual-inertial odometry. The method is b
 
 ## Referencing
 
-```TeX
+{% raw  %}
+```
 @inproceedings{Solin+Cortes+Rahtu+Kannala:2018,
       title = {{PIVO}: {P}robabilistic inertial-visual odometry for occlusion-robust navigation},
      author = {Solin, Arno and Cortes, Santiago and Rahtu, Esa and Kannala, Juho},
@@ -20,3 +21,4 @@ This paper presents a novel method for visual-inertial odometry. The method is b
   booktitle = {Proceedings of the IEEE Winter Conference on Applications of Computer Vision (WACV)}
 }
 ```
+{% endraw  %}
