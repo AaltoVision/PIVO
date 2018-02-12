@@ -1,6 +1,6 @@
 # PIVO: Probabilistic inertial-visual odometry for occlusion-robust navigation
 
-Arno Solin, Santiago Cortes, Esa Rahtu, and Juho Kannala
+[Arno Solin](http://arno.solin.fi), [Santiago Cortes](), [Esa Rahtu](), and [Juho Kannala]()
 
 ## Abstract
 
