@@ -15,10 +15,13 @@ This paper presents a novel method for visual-inertial odometry. The method is b
 {% raw  %}
 ```
 @inproceedings{Solin+Cortes+Rahtu+Kannala:2018,
-      title = {{PIVO}: {P}robabilistic inertial-visual odometry for occlusion-robust navigation},
-     author = {Solin, Arno and Cortes, Santiago and Rahtu, Esa and Kannala, Juho},
+      title = {{PIVO}: {P}robabilistic inertial-visual odometry for 
+               occlusion-robust navigation},
+     author = {Solin, Arno and Cortes, Santiago and Rahtu, Esa 
+               and Kannala, Juho},
        year = {2018},
-  booktitle = {Proceedings of the IEEE Winter Conference on Applications of Computer Vision (WACV)}
+  booktitle = {Proceedings of the IEEE Winter Conference on 
+               Applications of Computer Vision (WACV)}
 }
 ```
 {% endraw  %}
