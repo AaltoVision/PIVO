@@ -12,7 +12,7 @@ This paper presents a novel method for visual-inertial odometry. The method is b
 
 ## Video 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CK8RuoSEw0o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CK8RuoSEw0o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Referencing
 
