@@ -8,6 +8,8 @@ This paper presents a novel method for visual-inertial odometry. The method is b
 
 ## Poster
 
+![WACV poster]({{ site.baseurl }}/assets/WACV-poster.jpg)
+
 [WACV poster]({{ site.baseurl }}/assets/WACV-poster.pdf)
 
 ## Video 1
