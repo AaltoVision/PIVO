@@ -4,7 +4,13 @@ This paper presents a novel method for visual-inertial odometry. The method is b
 
 ## Paper
 
+{{site.baseurl}}
+
 [arXiv pre-print](https://arxiv.org/abs/1708.00894)
+
+## Poster
+
+<a href="{{ site.url }}/assets/WACV-poster.pdf">WACV poster</a>
 
 ## Video 1
 
