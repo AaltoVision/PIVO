@@ -20,6 +20,10 @@ This paper presents a novel method for visual-inertial odometry. The method is b
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CK8RuoSEw0o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
+## Code
+
+If you are looking for a reference implementation of PIVO, please see [HybVIO](https://github.com/SpectacularAI/HybVIO) which extends and improves the PIVO approach.
+
 ## Referencing
 
 {% raw  %}
